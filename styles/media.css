@@ -117,7 +117,7 @@
         max-width: 575px;
     }
     .contact-info{
-        display: block;
+        /* display: block; */
         gap: 50px;
     }
     
