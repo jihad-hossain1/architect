@@ -1,0 +1,124 @@
+
+@media only screen and (max-width: 576px) {
+    .main-content{
+        width: 100%;
+        max-width: 576px;
+        padding-top: 40px;
+    }
+    .company-name h2 {
+        font-size: 20px;
+    }
+    .company-navi {
+        padding: 15px;
+        padding-bottom: 100px;
+    }
+    .company-navi nav a {
+        font-size: 16px;
+        margin: 3px;
+    }
+    #contact{
+        display: none;
+    }
+    .banner-title {
+        font-size: 30px;
+        padding-bottom: 30px;
+    }
+    .btn-primary {
+        padding: 10px 25px;
+    }
+    .banner-image div img{
+        width: 100%;
+        max-width: 575px;
+    }
+    main{
+        width: 100%;
+        max-width: 570px;
+        padding-top: 40px;
+    }
+    .quick-feature {
+        display: block;
+        margin: 0;
+        /* padding: 0; */
+    }
+    .feature-image .image img{
+        width: 100%;
+        max-width: 570px;
+    }
+    .quick-feature-heading {
+        padding-top: 50px;
+        text-align: center;
+        width: 100%;
+        max-width: 570px;
+    }
+    .feature{
+        display: block;
+        gap: 0;
+        padding-top: 80px;
+    }
+    #exp{
+        width: 100%;
+        max-width: 190px;
+    }
+    .experience h2{  
+        font-size: 45px;
+    }
+    .fe-title h2 {
+        font-weight: 700;
+        font-size: 35px;  
+    }
+    .fe-title {
+        padding-top: 18px;
+        padding-bottom: 18px;
+    }
+    .architect-image img {
+        width: 100%;
+        max-width: 575px;
+        height: 100%;
+    }
+    .facts {
+        padding-top: 80px;
+    }
+    .facts h2 {
+        font-size: 35px;
+        padding-bottom: 20px;
+    }
+    .achivement-history {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 20px;
+        padding-top: 40px;
+        margin: 5px;
+    }
+    .history-container {
+        text-align: center;
+        padding: 35px;
+    }
+    .sponspors {
+        padding-top: 90px;
+        padding-bottom: 40px;
+    }
+    .sponspor-icon{
+        gap: 30px;
+    }
+    .sponspors h2 {
+        font-size: 35px;
+    }
+    .sponspor-icon div img{
+        width: 100%;
+        max-width: 80px;
+    }
+    .copyright div p{
+        padding-bottom: 8px;
+        font-size: 10px;
+    }
+    footer{
+        background-color: #FFF4E7;
+        width: 100%;
+        max-width: 575px;
+    }
+    .contact-info{
+        display: block;
+        gap: 50px;
+    }
+    
+}
